@@ -1,0 +1,11 @@
+body { background-color:grey;}
+h1 {color: white;
+  text-align: center;}
+h2{ color: red;
+   text-align: right; }
+p {font-family: verdana;
+  font-size: 15px;}
+  div {height: 4000px;
+  width: 100%;
+  background-color:black;}
+  img {float: right;}
